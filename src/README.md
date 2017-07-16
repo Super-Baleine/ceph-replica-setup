@@ -1,0 +1,3 @@
+Aims to install a CephFS cluster.
+
+I haven't tested it...
