@@ -1,3 +1,4 @@
+source vars.sh
 #
 # add the desired node as monitor
 # post-install
