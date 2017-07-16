@@ -16,7 +16,10 @@ add_osd(){
   done;
 }
 
-create_pool(){
+#
+# sets up the Ceph file system
+#
+create_pool_fs(){
   pg=256;
   md_name="cephfs_metadata";
   data_name="cephfs_data";

@@ -23,4 +23,5 @@ osd_init;
 msd_init;
 mon_setup;
 add_osd;
+create_pool_fs;
 #
